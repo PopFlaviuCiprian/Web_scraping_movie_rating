@@ -9,4 +9,4 @@ greater then 8 on IMDB.
 - pip install bs4
 
 
-[![](https://markdown-videos.deta.dev/youtube/bAYhbBT3s24)](https://youtu.be/bAYhbBT3s24)
+[![Alt text](https://www.howtogeek.com/wp-content/uploads/2021/06/youtube_hero_1200x675.jpg?width=1198&trim=1,1&bg-color=000&pad=1,1)](https://youtu.be/bAYhbBT3s24)
